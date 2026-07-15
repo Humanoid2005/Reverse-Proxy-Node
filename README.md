@@ -1,4 +1,4 @@
-# Node.js Reverse Proxy (Nginx Clone)
+# Node.js Reverse Proxy
 
 A high-performance, multi-core reverse proxy built entirely in Node.js. It routes incoming HTTP traffic to backend upstream servers using dynamic, metric-based load balancing and centralized rate limiting.
 
